@@ -40,7 +40,7 @@ return [
     */
 
     'debug' => env('APP_DEBUG', false),
-    'editor' =>'phpstorm',sdsad
+    'editor' =>'phpstorm',
     /*
     |--------------------------------------------------------------------------
     | Application URL
