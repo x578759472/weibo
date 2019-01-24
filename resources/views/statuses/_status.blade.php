@@ -12,7 +12,6 @@
             {{method_field('DELETE')}}
             <button type="submit" class="btn btn-danger btn-sm">删除</button>
         </form>
-
-        @endcan
+    @endcan
 
 </li>
